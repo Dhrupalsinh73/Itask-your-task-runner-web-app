@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color:black;
+
+
+}
+
+.container{
+    background-color: #1f2123;
+    
+}
+.title{
+    color: rgb(30, 206, 241);
+}
